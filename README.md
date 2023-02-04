@@ -1,5 +1,5 @@
 - Hi, I’m Brendon Wickham
 - I’m interested in health informatics. 
-- I'm currently upgrading my Javascript skills and working on an open-source Primary Mental Health Care - Minimum Dataset (PMHC-MDS) Flask app.
+- I'm working with Flask, core web, REST API, Plotly, Python.
 - I’m keen on collaborating on other health informatics projects.
 - 📫 How to reach me: @brenwickham on Twitter.
